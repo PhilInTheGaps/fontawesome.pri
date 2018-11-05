@@ -1,5 +1,5 @@
 import QtQuick 2.5
-import FontAwesome 1.0
+import FontAwesome 2.0
 
 Rectangle {
 
@@ -8,11 +8,11 @@ Rectangle {
 
     Text {
         text: FontAwesome.addressBook
+        font.family: FontAwesome.familySolid
+
         font.pointSize: 36
         anchors.fill: parent
         verticalAlignment: Text.AlignVCenter
         horizontalAlignment: Text.AlignHCenter
-        font.family: FontAwesome.fontFamily
     }
-
 }

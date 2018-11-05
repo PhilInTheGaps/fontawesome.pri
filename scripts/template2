@@ -1,0 +1,24 @@
+pragma Singleton
+import QtQuick 2.0
+
+Object {
+    property string familySolid: "Font Awesome 5 Free"
+    property string familyRegular: "Font Awesome 5 Free Regular"
+    property string familyBrands: "Font Awesome 5 Brands"
+
+    FontLoader {
+        name: "Solid"
+        source: "./fa-solid.ttf"
+    }
+
+    FontLoader {
+        name: "Regular"
+        source: "./fa-regular.ttf"
+    }
+
+    FontLoader {
+        name: "Brands"
+        source: "./fa-brands.ttf"
+    }
+
+    // Icons

@@ -3,7 +3,7 @@
 import yaml
 import urllib.request
 
-with urllib.request.urlopen("https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/advanced-options/metadata/icons.yml") as iStream:
+with urllib.request.urlopen("https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/metadata/icons.yml") as iStream:
     try:
         # Get Icons.yml from GitHub
         icons = yaml.safe_load(iStream)

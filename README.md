@@ -1,6 +1,8 @@
 # FontAwesome.pri
 
-This fork adds a new modified version (2.0) of FontAwesome.qml that supports Font-Awesome 5.5.
+![FontAwesome Version](https://img.shields.io/badge/FontAwesome-5.6.3-blue.svg?style=for-the-badge)
+
+This fork adds a new modified version (2.0) of FontAwesome.qml that supports Font-Awesome 5.
 
 ## Fork
 

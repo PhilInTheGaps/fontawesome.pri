@@ -40,7 +40,7 @@ Text {
 }
 ```
 
-![Screenshot](https://raw.githubusercontent.com/benlau/fontawesome.pri/master/docs/preview.png)
+![Screenshot](https://github.com/PhilInTheGaps/fontawesome.pri/raw/master/docs/preview.png)
 
 ## Versions
 

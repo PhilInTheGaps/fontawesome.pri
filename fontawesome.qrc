@@ -1,11 +1,15 @@
 <RCC>
     <qresource prefix="/">
-        <file>FontAwesome/fontawesome-webfont.ttf</file>
-        <file>FontAwesome/fa-solid.ttf</file>
-        <file>FontAwesome/fa-regular.ttf</file>
-        <file>FontAwesome/fa-brands.ttf</file>
+        <file>FontAwesome/FontAwesome4/fontawesome-webfont.ttf</file>
+        <file>FontAwesome/FontAwesome5.6/fa-solid.ttf</file>
+        <file>FontAwesome/FontAwesome5.6/fa-regular.ttf</file>
+        <file>FontAwesome/FontAwesome5.6/fa-brands.ttf</file>
+        <file>FontAwesome/FontAwesome5.11/Font Awesome 5 Brands-Regular-400.otf</file>
+        <file>FontAwesome/FontAwesome5.11/Font Awesome 5 Free-Regular-400.otf</file>
+        <file>FontAwesome/FontAwesome5.11/Font Awesome 5 Free-Solid-900.otf</file>
         <file>FontAwesome/FontAwesome10.qml</file>
         <file>FontAwesome/FontAwesome20.qml</file>
+        <file>FontAwesome/FontAwesome21.qml</file>
         <file>FontAwesome/qmldir</file>
         <file>FontAwesome/Object.qml</file>
     </qresource>

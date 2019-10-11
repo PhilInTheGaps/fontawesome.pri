@@ -1,3 +1,4 @@
 module FontAwesome
 singleton FontAwesome 1.0 FontAwesome10.qml
 singleton FontAwesome 2.0 FontAwesome20.qml
+singleton FontAwesome 2.1 FontAwesome21.qml
